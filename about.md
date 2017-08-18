@@ -5,7 +5,12 @@ permalink: /about/
 ---
 
 Hi, this is my personal blog!
+
 I don't expect many people to visit this site.  It's mostly intended as a 'note to self' for me to add my thoughts on things I might want to remember down the line or for later use.
+
+I'll mostly be blogging about stuff I find useful at work or on any project I'm working on, mostly Ruby on Rails and Web Stuff.
+
+If you stumble across this blog and want to say hi, hit me up!
 
 ### Want to know more about me?
 
